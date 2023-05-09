@@ -2562,7 +2562,7 @@ td:last-child {
 }
 
 .skill-bars li .progress {
-    background : var(--color-black);
+    background : #469c26;
     position   : relative;
     height     : 100%;
 }
